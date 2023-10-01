@@ -1,6 +1,6 @@
 @echo off
 color a 
-title Administración de Redes Wi-Fi
+title Redes Wi-Fi
 mode 120, 30
 
 :menu
